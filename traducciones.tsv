@@ -1,0 +1,267 @@
+# Diccionario de traducción GO terms / KEGG → Español
+# Formato: término_en_inglés [TAB] traducción_en_español
+# Líneas que empiezan con # son comentarios y se ignoran
+# Case-insensitive: puedes escribir en mayúsculas o minúsculas
+
+# ── GO Biological Process ─────────────────────────────────────────────
+reproduction	Reproducción
+cell cycle checkpoint signaling	Señalización del punto de control del ciclo celular
+dna damage checkpoint signaling	Señalización del punto de control por daño en ADN
+dna repair	Reparación del ADN
+dna damage response	Respuesta al daño en el ADN
+double-strand break repair	Reparación de roturas de doble cadena
+single-strand break repair	Reparación de roturas de cadena simple
+apoptotic process	Proceso apoptótico
+intrinsic apoptotic signaling pathway	Vía de señalización apoptótica intrínseca
+extrinsic apoptotic signaling pathway	Vía de señalización apoptótica extrínseca
+regulation of apoptotic process	Regulación del proceso apoptótico
+positive regulation of apoptotic process	Regulación positiva del proceso apoptótico
+negative regulation of apoptotic process	Regulación negativa del proceso apoptótico
+cell cycle arrest	Arresto del ciclo celular
+cell cycle	Ciclo celular
+g1/s transition of mitotic cell cycle	Transición G1/S del ciclo celular mitótico
+g2/m transition of mitotic cell cycle	Transición G2/M del ciclo celular mitótico
+mitotic cell cycle	Ciclo celular mitótico
+signal transduction	Transducción de señales
+mapk cascade	Cascada MAPK
+regulation of protein phosphorylation	Regulación de la fosforilación de proteínas
+positive regulation of protein phosphorylation	Regulación positiva de la fosforilación de proteínas
+negative regulation of protein phosphorylation	Regulación negativa de la fosforilación de proteínas
+protein ubiquitination	Ubiquitinación de proteínas
+protein polyubiquitination	Poliubiquitinación de proteínas
+protein monoubiquitination	Monoubiquitinación de proteínas
+proteasomal ubiquitin-dependent protein catabolic process	Catabolismo proteico dependiente de ubiquitina-proteasoma
+transcription, dna-templated	Transcripción dependiente de ADN
+regulation of transcription, dna-templated	Regulación de la transcripción dependiente de ADN
+regulation of transcription by rna polymerase ii	Regulación de la transcripción por ARN polimerasa II
+positive regulation of transcription by rna polymerase ii	Regulación positiva de la transcripción por ARN polimerasa II
+negative regulation of transcription by rna polymerase ii	Regulación negativa de la transcripción por ARN polimerasa II
+chromatin remodeling	Remodelación de cromatina
+chromatin organization	Organización de la cromatina
+histone modification	Modificación de histonas
+histone acetylation	Acetilación de histonas
+histone deacetylation	Desacetilación de histonas
+histone methylation	Metilación de histonas
+histone phosphorylation	Fosforilación de histonas
+histone ubiquitination	Ubiquitinación de histonas
+protein acetylation	Acetilación de proteínas
+protein deacetylation	Desacetilación de proteínas
+protein methylation	Metilación de proteínas
+phosphorylation	Fosforilación
+protein phosphorylation	Fosforilación de proteínas
+dephosphorylation	Desfosforilación
+protein dephosphorylation	Desfosforilación de proteínas
+kinase activity	Actividad quinasa
+protein kinase activity	Actividad proteína quinasa
+tyrosine kinase activity	Actividad tirosina quinasa
+serine/threonine kinase activity	Actividad serina/treonina quinasa
+receptor tyrosine kinase signaling pathway	Vía de señalización del receptor tirosina quinasa
+epidermal growth factor receptor signaling pathway	Vía de señalización del receptor del factor de crecimiento epidérmico
+ras protein signal transduction	Transducción de señales de la proteína Ras
+pi3k-akt signaling pathway	Vía de señalización PI3K-AKT
+mtor signaling pathway	Vía de señalización mTOR
+cell proliferation	Proliferación celular
+positive regulation of cell proliferation	Regulación positiva de la proliferación celular
+negative regulation of cell proliferation	Regulación negativa de la proliferación celular
+cell migration	Migración celular
+cell adhesion	Adhesión celular
+cell differentiation	Diferenciación celular
+cell morphogenesis	Morfogénesis celular
+cell morphogenesis involved in differentiation	Morfogénesis celular implicada en diferenciación
+cell growth	Crecimiento celular
+cell division	División celular
+cell senescence	Senescencia celular
+cellular response to dna damage stimulus	Respuesta celular al estímulo de daño en el ADN
+response to dna damage stimulus	Respuesta al estímulo de daño en el ADN
+angiogenesis	Angiogénesis
+tumor suppressor	Supresor tumoral
+oncogenesis	Oncogénesis
+epithelial to mesenchymal transition	Transición epitelio-mesénquima
+dna replication	Replicación del ADN
+nucleotide excision repair	Reparación por escisión de nucleótidos
+base excision repair	Reparación por escisión de bases
+homologous recombination	Recombinación homóloga
+mismatch repair	Reparación de emparejamientos erróneos
+non-homologous end joining	Unión de extremos no homólogos
+regulation of cell cycle	Regulación del ciclo celular
+protein binding	Unión a proteínas
+protein complex assembly	Ensamblaje de complejos proteicos
+protein complex	Complejo proteico
+ubiquitin ligase activity	Actividad ubiquitina ligasa
+e3 ubiquitin ligase activity	Actividad E3 ubiquitina ligasa
+protein degradation	Degradación de proteínas
+proteolysis	Proteólisis
+chaperone-mediated protein folding	Plegamiento de proteínas mediado por chaperona
+protein folding	Plegamiento de proteínas
+stress response	Respuesta al estrés
+oxidative stress response	Respuesta al estrés oxidativo
+response to hypoxia	Respuesta a la hipoxia
+response to heat	Respuesta al calor
+immune response	Respuesta inmune
+inflammatory response	Respuesta inflamatoria
+innate immune response	Respuesta inmune innata
+adaptive immune response	Respuesta inmune adaptativa
+wnt signaling pathway	Vía de señalización Wnt
+notch signaling pathway	Vía de señalización Notch
+hedgehog signaling pathway	Vía de señalización Hedgehog
+tgf-beta signaling pathway	Vía de señalización TGF-beta
+jak-stat signaling pathway	Vía de señalización JAK-STAT
+nf-kb signaling pathway	Vía de señalización NF-kB
+fanconi anemia pathway	Vía de la anemia de Fanconi
+stem cell maintenance	Mantenimiento de células madre
+stem cell proliferation	Proliferación de células madre
+telomere maintenance	Mantenimiento de telómeros
+chromosome segregation	Segregación cromosómica
+spindle assembly checkpoint	Punto de control del ensamblaje del huso mitótico
+autophagy	Autofagia
+mitophagy	Mitofagia
+ferroptosis	Ferroptosis
+necroptosis	Necroptosis
+pyroptosis	Piroptosis
+anoikis	Anoikis
+metabolic process	Proceso metabólico
+glucose metabolic process	Proceso metabólico de glucosa
+lipid metabolic process	Proceso metabólico de lípidos
+fatty acid metabolic process	Proceso metabólico de ácidos grasos
+amino acid metabolic process	Proceso metabólico de aminoácidos
+nucleotide metabolic process	Proceso metabólico de nucleótidos
+oxidative phosphorylation	Fosforilación oxidativa
+glycolysis	Glucólisis
+pentose phosphate pathway	Vía de las pentosas fosfato
+tricarboxylic acid cycle	Ciclo del ácido tricarboxílico
+reactive oxygen species metabolic process	Proceso metabólico de especies reactivas de oxígeno
+nuclear transport	Transporte nuclear
+cytoplasmic sequestration	Secuestro citoplasmático
+protein localization	Localización de proteínas
+protein export from nucleus	Exportación de proteínas del núcleo
+protein import into nucleus	Importación de proteínas al núcleo
+vesicle-mediated transport	Transporte mediado por vesículas
+exosome secretion	Secreción de exosomas
+extracellular matrix organization	Organización de la matriz extracelular
+proteoglycan biosynthesis	Biosíntesis de proteoglicanos
+collagen fibril organization	Organización de fibrillas de colágeno
+wound healing	Curación de heridas
+tissue remodeling	Remodelación tisular
+neuron differentiation	Diferenciación neuronal
+axon guidance	Guía axonal
+synaptic transmission	Transmisión sináptica
+# ── GO Molecular Function ─────────────────────────────────────────────
+dna binding	Unión al ADN
+dna-binding transcription factor activity	Actividad de factor de transcripción de unión al ADN
+sequence-specific dna binding	Unión al ADN específica de secuencia
+rna binding	Unión al ARN
+atp binding	Unión al ATP
+gtp binding	Unión al GTP
+metal ion binding	Unión a iones metálicos
+zinc ion binding	Unión a iones de zinc
+calcium ion binding	Unión a iones de calcio
+enzyme binding	Unión a enzimas
+receptor binding	Unión a receptores
+ligand binding	Unión a ligandos
+growth factor activity	Actividad de factor de crecimiento
+growth factor receptor binding	Unión al receptor del factor de crecimiento
+transcription coactivator activity	Actividad coactivadora de transcripción
+transcription corepressor activity	Actividad correpresora de transcripción
+acetyltransferase activity	Actividad acetiltransferasa
+deacetylase activity	Actividad desacetilasa
+methyltransferase activity	Actividad metiltransferasa
+ubiquitin-protein transferase activity	Actividad ubiquitina-proteína transferasa
+deubiquitinase activity	Actividad deubiquitinasa
+gtpase activity	Actividad GTPasa
+atpase activity	Actividad ATPasa
+helicase activity	Actividad helicasa
+nuclease activity	Actividad nucleasa
+endonuclease activity	Actividad endonucleasa
+exonuclease activity	Actividad exonucleasa
+phosphatase activity	Actividad fosfatasa
+protease activity	Actividad proteasa
+peptidase activity	Actividad peptidasa
+chaperone activity	Actividad chaperona
+scaffold protein binding	Unión a proteína de andamiaje
+adaptor activity	Actividad adaptadora
+# ── GO Cellular Component ─────────────────────────────────────────────
+nucleus	Núcleo
+nucleoplasm	Nucleoplasma
+nucleolus	Nucléolo
+cytoplasm	Citoplasma
+cytosol	Citosol
+mitochondrion	Mitocondria
+endoplasmic reticulum	Retículo endoplasmático
+golgi apparatus	Aparato de Golgi
+plasma membrane	Membrana plasmática
+extracellular matrix	Matriz extracelular
+extracellular space	Espacio extracelular
+cell junction	Unión celular
+focal adhesion	Adhesión focal
+nuclear envelope	Envoltura nuclear
+chromatin	Cromatina
+chromosome	Cromosoma
+centrosome	Centrosoma
+spindle	Huso mitótico
+ribosome	Ribosoma
+proteasome complex	Complejo del proteasoma
+ubiquitin ligase complex	Complejo ubiquitina ligasa
+dna repair complex	Complejo de reparación del ADN
+transcription factor complex	Complejo de factores de transcripción
+signaling complex	Complejo de señalización
+# ── KEGG Pathways ─────────────────────────────────────────────────────
+pathways in cancer	Vías en cáncer
+breast cancer	Cáncer de mama
+colorectal cancer	Cáncer colorrectal
+lung cancer	Cáncer de pulmón
+prostate cancer	Cáncer de próstata
+pancreatic cancer	Cáncer de páncreas
+bladder cancer	Cáncer de vejiga
+hepatocellular carcinoma	Carcinoma hepatocelular
+gastric cancer	Cáncer gástrico
+cervical cancer	Cáncer cervical
+endometrial cancer	Cáncer endometrial
+ovarian cancer	Cáncer de ovario
+thyroid cancer	Cáncer de tiroides
+renal cell carcinoma	Carcinoma de células renales
+glioma	Glioma
+glioblastoma	Glioblastoma
+melanoma	Melanoma
+leukemia	Leucemia
+chronic myeloid leukemia	Leucemia mieloide crónica
+acute myeloid leukemia	Leucemia mieloide aguda
+small cell lung cancer	Cáncer de pulmón de células pequeñas
+non-small cell lung cancer	Cáncer de pulmón de células no pequeñas
+p53 signaling pathway	Vía de señalización de p53
+cell cycle (kegg)	Ciclo celular (KEGG)
+dna replication (kegg)	Replicación del ADN (KEGG)
+base excision repair (kegg)	Reparación por escisión de bases (KEGG)
+nucleotide excision repair (kegg)	Reparación por escisión de nucleótidos (KEGG)
+mismatch repair (kegg)	Reparación de emparejamientos erróneos (KEGG)
+homologous recombination (kegg)	Recombinación homóloga (KEGG)
+non-homologous end-joining	Unión de extremos no homólogos
+egfr tyrosine kinase inhibitor resistance	Resistencia a inhibidores de tirosina quinasa de EGFR
+erbb signaling pathway	Vía de señalización ErbB
+pi3k-akt signaling pathway (kegg)	Vía de señalización PI3K-AKT (KEGG)
+mapk signaling pathway	Vía de señalización MAPK
+ras signaling pathway	Vía de señalización Ras
+apoptosis	Apoptosis
+apoptosis (kegg)	Apoptosis (KEGG)
+ubiquitin mediated proteolysis	Proteólisis mediada por ubiquitina
+wnt signaling pathway (kegg)	Vía de señalización Wnt (KEGG)
+notch signaling pathway (kegg)	Vía de señalización Notch (KEGG)
+hedgehog signaling pathway (kegg)	Vía de señalización Hedgehog (KEGG)
+tgf-beta signaling pathway (kegg)	Vía de señalización TGF-beta (KEGG)
+jak-stat signaling pathway (kegg)	Vía de señalización JAK-STAT (KEGG)
+mtor signaling pathway (kegg)	Vía de señalización mTOR (KEGG)
+vegf signaling pathway	Vía de señalización VEGF
+focal adhesion	Adhesión focal
+ecm-receptor interaction	Interacción ECM-receptor
+adherens junction	Unión adherente
+tight junction	Unión estrecha
+gap junction	Unión en hendidura
+autophagy (kegg)	Autofagia (KEGG)
+hippo signaling pathway	Vía de señalización Hippo
+ferroptosis (kegg)	Ferroptosis (KEGG)
+cellular senescence	Senescencia celular
+oxidative phosphorylation (kegg)	Fosforilación oxidativa (KEGG)
+glycolysis / gluconeogenesis	Glucólisis / Gluconeogénesis
+fanconi anemia pathway	Vía de la anemia de Fanconi
+proteoglycans in cancer	Proteoglicanos en cáncer
+transcriptional misregulation in cancer	Desregulación transcripcional en cáncer
+microRNAs in cancer	MicroARNs en cáncer
